@@ -27,6 +27,7 @@ export default function Login() {
     }
     return (
         <CenteredContainer>
+            <h1 style={{ textAlign: 'center', marginBottom: '50px' }}>G-Drive-Clone</h1>
             <Card>
                 <Card.Body>
                     <h2 className="text-center mb-4">Log In</h2>
